@@ -16,13 +16,17 @@ This is a Modern, Clean and Professional restaurant website template. Prefect fo
 - [x] Responsive 100%
 - [x] Easy Customization
 - [x] No third party plugins
+
 .
 .
 .
 .
+
 [![Nihory - Portfolio site template live demo](https://i.ibb.co/vwN8cgW/live-demo.png)](https://restaurant-website-atulcodex.netlify.app/)
+
 .
 .
 .
+
 
 [![Atul - Buy Me A Coffee](https://i.ibb.co/7rR9S4L/buy-me-a-coffee.png)](https://www.buymeacoffee.com/atulcodex)
