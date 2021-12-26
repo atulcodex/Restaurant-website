@@ -20,7 +20,7 @@ This is a Modern, Clean and Professional restaurant website template. Prefect fo
 .
 .
 .
-[![Nihory - Portfolio site template live demo](https://restaurant-website-atulcodex.netlify.app/)
+[![Nihory - Portfolio site template live demo](https://i.ibb.co/vwN8cgW/live-demo.png)](https://restaurant-website-atulcodex.netlify.app/)
 .
 .
 .
